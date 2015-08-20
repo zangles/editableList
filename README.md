@@ -21,8 +21,6 @@ Then activate with jQuery like so:
             });
         </script>
 
-### Events
-
 ### Methods
 
 You can get the list values in an array like this:
